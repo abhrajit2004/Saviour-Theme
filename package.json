@@ -1,0 +1,22 @@
+{
+  "name": "saviour-theme",
+  "displayName": "Saviour Theme",
+  "description": "Presenting Saviour Theme By a Bengali Coder.",
+  "version": "0.0.1",
+  "publisher": "AbhrajitGupta",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saviour Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saviour Theme-color-theme.json"
+      }
+    ]
+  }
+}
