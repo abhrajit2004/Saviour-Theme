@@ -2,11 +2,11 @@
   "name": "saviour-theme",
   "displayName": "Saviour Theme",
   "description": "Presenting Saviour Theme By a Bengali Coder.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "AbhrajitGupta",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/abhrajit2004/Saviour-Theme"
+    "url": "https://github.com/abhrajit2004/Saviour-Theme"
   },
   "engines": {
     "vscode": "^1.87.0"
